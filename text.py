@@ -17,5 +17,3 @@ words = ['abandon', 'brand', 'ability', 'celebrate', 'background', 'bad', 'celeb
          'yesterday', 'young', 'virtually', 'veteran', 'useful', 'understand', 'treatment', 'transform', 'traditional',
          'technical', 'tablespoon', 'suspect', 'survivor', 'support', 'suddenly', 'structure']
 
-print(len(words))
-
